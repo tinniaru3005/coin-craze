@@ -1,4 +1,6 @@
-# fun.pump
+# coin.craze
+
+A decentralized application (DApp) that allows users to create and trade meme coins effortlessly.
 
 ## Technology Stack & Tools
 

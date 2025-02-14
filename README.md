@@ -2,6 +2,12 @@
 
 A decentralized application (DApp) that allows users to create and trade meme coins effortlessly.
 
+
+
+https://github.com/user-attachments/assets/549f75f6-831e-4a2d-a712-e2981b98449e
+
+
+
 ## Technology Stack & Tools
 
 - Solidity (Writing Smart Contracts & Tests)
